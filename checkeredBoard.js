@@ -1,3 +1,5 @@
+// https://www.codewars.com/kata/5650f1a6075b3284120000c0
+
 function checkeredBoard(dimension) {
   const whiteSquare = '\u25A0'
   const blackSquare = '\u25A1'

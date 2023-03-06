@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/5650f1a6075b3284120000c0
+
 import sys
 
 def checkered_board(n):

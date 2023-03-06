@@ -1,3 +1,5 @@
+# https://www.codewars.com/kata/5821cd4770ca285b1f0001d5
+
 def snakes_and_ladders(board, dice):
     finalBoardIndex = len(board) - 1
     currentBoardIndex = 0
